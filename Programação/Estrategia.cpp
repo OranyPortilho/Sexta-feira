@@ -127,8 +127,10 @@ while(RAMPA)
  {
   movimento.Sesq();
  }
- else(BBBB);
-}
+ else(SeguirLinha());
+}+
+  +
+  
 
   
 }
